@@ -1,0 +1,2 @@
+# demoTypescriptProject
+littleDemoProjectFromUdemyCourse
